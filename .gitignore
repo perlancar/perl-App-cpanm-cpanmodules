@@ -1,0 +1,4 @@
+App-cpanm-cpanmodules-*
+.build
+*~
+nytprof*
